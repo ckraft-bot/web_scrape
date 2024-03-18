@@ -1,4 +1,4 @@
-wca_tracker is a custom Python program that allows me to track the competition stats of my favorite cubers. With wca_tracker, I can easily view and compare stats.
+WCA racker is a custom Python program that allows me to track the competition stats of my favorite cubers. With wca_tracker, I can easily view and compare stats.
 Installation and Usage
 
 __Background__ 
